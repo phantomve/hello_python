@@ -1,4 +1,4 @@
-## Variables
+### Variables ###
 
 # variable tipo string
 my_string_variable = "My String Variable"
